@@ -1,6 +1,6 @@
 e-community-platform
 ====================
-| ⚠️ This repository will be archived in the future due to a move, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 
 防災科学研究所(NIED)によるサイト構築・運営ツール「eコミグループウェア 」（http://ecom-plat.jp/index.php?gid=10454）のCode for Japanフォーク版です。
